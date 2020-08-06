@@ -1,0 +1,49 @@
+/* File Name: app.css
+   Author: Devesh Kumar
+   Pages: index.html (Bio Page), contact.html (Contact Page), project.html (Project Page)
+   File Description: Custom CSS File  */
+
+#myImg {
+    height: 400px;
+    width: 300px;
+    float: right;
+    padding: 1ex;
+}
+
+.container {
+    width: 70%;
+    padding: 1ex;
+    margin: auto;
+}
+
+body {
+    background-color: lavender;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+nav a img {
+    width: 50px;
+    height: 40px;
+}
+
+.center {
+    text-align: center;
+}
+
+img {
+    width: 100%;
+}
+
+h1 {
+    color: #330E44;
+}
+
+h3 {
+    background-color: lightslategray;
+    color: white;
+    border: solid 1px #555555;
+}

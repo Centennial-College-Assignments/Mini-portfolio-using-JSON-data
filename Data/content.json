@@ -1,0 +1,43 @@
+{
+    "homePageContent": {
+        "header": "My Vision",
+        "infoList": [
+            "I would love to work as a programmer/developer in Finance Industry After completing my course and help grow financial technology and platforms.",
+            "My ultimate goal is to be an entrepreneur and design/create a trading platform of my own and start my own brokerage house."
+        ],
+        "image": "./Assets/images/pic.jpg"
+    },
+
+    "aboutPageContent": {
+        "header": "My Interests",
+        "aboutPageContentList": [{
+                "header": "Computer Science & Software Technology",
+                "text": "There was a time when I didn’t like Computer Science & Software Technology at all but with time especially after working in finance field, I understood the importance of it and decided to learn it really well.",
+                "image": "./Assets/images/computer.png"
+            },
+            {
+                "header": "Trading and Finance",
+                "text": "Being an options trader, I love to watch, read and learn about Options & Futures trading more and more. Now being a Software Engineering Technology Student, I have also been devoting a lot my time studying and learning more about technologies.",
+                "image": "./Assets/images/trading.png"
+            },
+            {
+                "header": "Travelling and World Geography",
+                "text": "Geography is one my favourite subjects and I love to read about the new places and cultures. I love travelling too. I would rather like to go into the wild and enjoy nature than partying at a night club.",
+                "image": "./Assets/images/travel.jpg"
+            }
+        ]
+    },
+
+    "contactPageContent": {
+        "header": "Stay In Touch",
+        "labels": ["First Name", "Last Name", "Contact Number", "Email address", "Your Message"],
+        "placeholderText": [
+            "Enter your First Name",
+            "Enter your Last Name",
+            "Enter your Contact Number",
+            "Enter your Email address"
+        ],
+        "sumbitButtonText": "Send",
+        "cancelButtonText": "Try Again"
+    }
+}
