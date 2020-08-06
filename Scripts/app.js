@@ -97,7 +97,7 @@
         document.title = id;
 
         //used to chnage the url as page switches and changes id to lowercase
-        window.history.pushState("", id, "/" + id.toLowerCase());
+        //window.history.pushState("", id, "/" + id.toLowerCase());
 
         //method used to highlight the link on nav bar
         highlightActiveLink(id);
